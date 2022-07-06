@@ -1,0 +1,25 @@
+{
+  "name": "signalk-raspberry-pi-read-gpio",
+  "author": "Jean-David Caprace",
+  "description": "SignalK node server plugin that reads of the gpio pins on Raspberry-Pi",
+  "license": "MIT",
+  "homepage": "https://github.com/jdcaprace/signalk-raspberry-pi-read-gpio#readme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdcaprace/signalk-raspberry-pi-read-gpio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdcaprace/signalk-raspberry-pi-read-gpio/issues"
+  },
+  "dependencies": {
+    "rpio": "2.4.2"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  }
+}
