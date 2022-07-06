@@ -4,7 +4,7 @@
   "description": "SignalK node server plugin that reads of the gpio pins on Raspberry-Pi",
   "license": "MIT",
   "homepage": "https://github.com/jdcaprace/signalk-raspberry-pi-read-gpio#readme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin"
